@@ -1,0 +1,66 @@
+{
+    "portfolioValue": 100000,
+    "dailyPnL": 1500,
+    "winRate": 65,
+    "performanceData": [
+      { "date": "2023-01-01", "value": 95000 },
+      { "date": "2023-02-01", "value": 97000 },
+      { "date": "2023-03-01", "value": 98500 },
+      { "date": "2023-04-01", "value": 99000 },
+      { "date": "2023-05-01", "value": 90000 },
+      { "date": "2023-06-01", "value": 65000 },
+      { "date": "2023-07-01", "value": 78000 },
+      { "date": "2023-08-01", "value": 71000 },
+      { "date": "2023-09-01", "value": 56000 },
+      { "date": "2023-10-01", "value": 89000 },
+      { "date": "2023-11-01", "value": 23000 },
+      { "date": "2023-12-01", "value": 120000 }
+    ],
+    "assetAllocation": [
+      { "name": "Stocks", "value": 60000 },
+      { "name": "Bonds", "value": 30000 },
+      { "name": "Cash", "value": 10000 },
+      { "name": "Real Estate", "value": 30000 },
+      { "name": "Commodities", "value": 20000 }
+    ],
+    "strategies": [
+      {
+        "name": "Growth Strategy",
+        "roi": 12.5,
+        "cagr": 8.2,
+        "drawdown": 15
+      },
+      {
+        "name": "Income Strategy",
+        "roi": 7.8,
+        "cagr": 5.5,
+        "drawdown": 8
+      },
+      {
+        "name": "Momentum Strategy",
+        "roi": 16.3,
+        "cagr": 11.2,
+        "drawdown": 18
+      },
+      {
+        "name": "Value Investing",
+        "roi": 10.4,
+        "cagr": 7.3,
+        "drawdown": 12
+      }
+    ],
+    "recentTrades": [
+      { "date": "2023-05-01", "asset": "AAPL", "action": "Buy", "amount": 5000 },
+      { "date": "2023-04-28", "asset": "GOOGL", "action": "Sell", "amount": 3000 },
+      { "date": "2023-04-25", "asset": "MSFT", "action": "Buy", "amount": 4000 },
+      { "date": "2023-05-05", "asset": "TSLA", "action": "Sell", "amount": 7000 },
+      { "date": "2023-05-08", "asset": "AMZN", "action": "Buy", "amount": 6000 },
+      { "date": "2023-05-10", "asset": "NFLX", "action": "Sell", "amount": 5000 },
+      { "date": "2023-05-12", "asset": "BRK.A", "action": "Buy", "amount": 8000 },
+      { "date": "2023-05-15", "asset": "META", "action": "Sell", "amount": 4500 },
+      { "date": "2023-05-18", "asset": "NVDA", "action": "Buy", "amount": 7500 },
+      { "date": "2023-05-20", "asset": "DIS", "action": "Sell", "amount": 4000 }
+    ]
+  }
+  
+  

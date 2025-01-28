@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mantine/core": "^7.16.2",
+    "@mantine/hooks": "^7.16.2",
+    "@tabler/icons-react": "^3.29.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "prop-types": "^15.8.1"
+  }
+}
